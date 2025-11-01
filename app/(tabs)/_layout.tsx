@@ -30,7 +30,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="flexexample"
         options={{
-          title: 'Flexexample',
+          title: 'FlexExample',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="message.fill" color={color} />,
         }}
       />
