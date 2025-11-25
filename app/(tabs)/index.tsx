@@ -6,7 +6,7 @@ export default function HomeScreen() {
     <SafeAreaProvider>
       <SafeAreaView>
         <View style={styles.container}>
-          <Text style={styles.name}>Taosif Sadhin</Text>
+          <Text style={styles.name}>MJS STORE</Text>
           <View style={{alignItems: "center"}}>
              <Image src="" alt="Img"/>
               <Text style={styles.name}>Sample Image</Text>
